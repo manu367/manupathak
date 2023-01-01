@@ -1,0 +1,116 @@
+
+
+
+
+
+
+
+
+
+
+/******************** social media links *************/
+.social{
+    background-color:aliceblue;
+    border: 1px solid rgba(106,106,116,0.4);
+    padding: 2px;
+    font-family: sans-serif,Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+.social-media{
+    border-radius: 10px;
+    
+}
+
+.facebook:hover{
+    background-color: #4064ac;
+    transition: all 0.5s ease-in-out;
+    transition-duration: 400ms;
+    color: aliceblue;
+}
+
+.youtube:hover{
+    background-color: #FF0000;
+    transition: all 0.5s ease-in-out;
+    transition-duration: 600ms;
+    color: aliceblue;
+    border-bottom: 1px solid red;
+    outline: 1px solid whitesmoke;
+    transition: all 0.5s ease-in-out;
+    transition-duration: 400ms;
+}
+
+.twitter:hover{
+    background-color: #1DA1F2;
+    border-bottom: 1px solid #1DA1F2;
+    outline: 1px solid whitesmoke;
+    color: white;
+    transition: all 0.5s ease-in-out;
+    transition-duration: 400ms;
+}
+
+.linkedin:hover{
+    background-color: #4064ac;
+    border-bottom: 1px solid #4064ac;
+    outline: 1px solid whitesmoke;
+    color: white;
+    transition: all 0.5s ease-in-out;
+    transition-duration: 400ms;
+}
+
+
+
+.you{
+    color: #FF0000;
+}
+.youtube .you:hover{
+    color: white;
+}
+
+
+/********************** footer **************/
+.footer{
+    padding: 50px;
+    background-color: #000;
+    color: aliceblue;
+    background-repeat: no-repeat;
+    
+
+}
+
+.footer #button{
+    background-color: #6864ed;
+    border-radius: 20px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+input[type="email"]{
+    width: 100%;
+    height: 60px;
+    border: 0;
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-right: 240px;
+    font-weight: 500;
+    font-size: 14px;
+    color: black;
+}
+
+
+.list ul li{
+    list-style: none;
+}
+
+.list ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    cursor: pointer;
+}
+.list ul li a:hover{
+    color: #6864ed;
+}
+
+
+
+
+
